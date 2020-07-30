@@ -1,0 +1,28 @@
+
+nav {
+  display: block;
+}
+
+#navbar {
+position: fixed;
+   
+}
+
+main {
+ display: block;
+  background-color: grey;
+  margin-left: 310px;
+}
+
+.main-section {
+    position: float;
+    padding: 20px;
+    background-color: grey;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+@media (max-width: 500px) { font-size: 10px; }
